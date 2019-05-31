@@ -17,7 +17,7 @@ body {
     background-size: cover;
     height: 650px;
     padding-top: 50px;
-    position: relative;
+    /* position: relative; */
 }
 
 .col {
@@ -64,10 +64,11 @@ body {
 }
 
 .quote {
-    bottom: 15vhn;
+    /* bottom: 10vhn; */
     font-size: 2.5em;
     position: absolute;
     left: 10%;
+    
 }
 
 .container {
